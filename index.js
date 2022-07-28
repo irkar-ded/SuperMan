@@ -73,7 +73,9 @@ bot.on('time', function(time) {
 	if(bot.time.timeOfDay >= 13000){
 	bot.chat('/time set day')
 	}}
-        return;
+    if(connected<1){
+	    return;
+    }
     if (lasttime<0) {
         lasttime = bot.time.age;
     } else {
