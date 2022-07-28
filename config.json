@@ -9,6 +9,6 @@
     "custom-message-1": "HYu",
     "custom-message-2": "scribe to LION BOY",
     "login-enabled": "true",
-    "register-cmd": "/register 12345678 12345678",
+    "register-cmd": "/login 12345678",
     "login-cmd": "/login 12345678"
 }
