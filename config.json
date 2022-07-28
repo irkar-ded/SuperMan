@@ -3,11 +3,11 @@
     "port": 18836,
     "name": "Giga4el3310",
     "auto-night-skip": "false",
-    "join-msg": "Hey guys pls give some diamond plsssss)",
+    "join-msg": "/login 12345678",
     "join-msg-on": "true",
     "custom-message-enabled": "true",
     "custom-message-1": "HYu",
-    "custom-message-2": "scribe to LION BOY",
+    "custom-message-2": "Hey guys pls give some diamond plsssss)",
     "login-enabled": "true",
     "register-cmd": "/register 12345678 12345678",
     "login-cmd": "/login 12345678"
