@@ -1,0 +1,14 @@
+{
+    "ip": "majormine2.aternos.me",
+    "port": 18836,
+    "name": "Giga4el",
+    "auto-night-skip": "false",
+    "join-msg": "Hey guys pls give some diamond plsssss)",
+    "join-msg-on": "true",
+    "custom-message-enabled": "false",
+    "custom-message-1": "HYu",
+    "custom-message-2": "scribe to LION BOY",
+    "login-enabled": "true",
+    "register-cmd": "/register 12345678 12345678",
+    "login-cmd": "/login 12345678"
+}
